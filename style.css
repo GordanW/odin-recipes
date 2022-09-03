@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Times New Roman', sans-serif;
+    background-color: steelblue;
+    color: white;
+}
+
+
+h1{
+    font-size: 36px;
+    text-align: center;
+}
+
+ul li {
+    text-align: center;
+    border-top: 50px;
+    list-style: none;
+    padding-top: 15px;
+}
+
+a{
+    text-decoration: none;
+}
+
+img{
+    height: auto;
+    width: 500px;
+    border: 2px solid white;
+}
+
+.prep{
+    font-size: 20px;
+    color: brown;
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.ing ul li{
+    list-style: circle;
+    text-align: left;
+    border-top: 20px;
+    padding-top: 10px;
+}
+
+.step ol li {
+    padding-top: 10px;
+}
